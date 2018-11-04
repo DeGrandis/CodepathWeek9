@@ -5,12 +5,12 @@ HoneyPot assignment
 * I deployed the Dionaea with HTTP Honeypot
 
 # Any issues you encountered
-*The wrong github link, then i had to start over and wipe my original vm.  Then I could only access the map and not the dashboard.  
+* The wrong github link, then i had to start over and wipe my original vm.  Then I could only access the map and not the dashboard.  
 So another reinstall and everything was fine.
 
 
 # A summary of the data collected: number of attacks, number of malware samples, etc.
-* # of attacks after about 15 hrs: ~6,800
+* Number of attacks after about 15 hrs: ~6,800
 * Top Ports:
   1. 8088 (1,320 times)
   2. 80 (267 times)
